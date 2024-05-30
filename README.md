@@ -40,3 +40,14 @@ The portfolio website is structured with multiple sections:
 
 Here is an overview of the project structure:
 
+## Contact
+
+If you have any questions or would like to get in touch, feel free to contact me:
+
+- **Email:** [delrosarioaeron@gmail.com](mailto:delrosarioaeron@gmail.com)
+- **Phone:** [966-869-4788](tel:966-869-4788)
+
+You can also visit my [LinkedIn profile](#) for more information.
+
+
+
